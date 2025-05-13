@@ -1,0 +1,1 @@
+# Automated-Text-Recognition-and-Translation-using-Open-CV-and-Tesseract-OCR
